@@ -7,7 +7,7 @@ package-lock.json
 /coverage
 
 # config files
-/config
+/config/database/test.json
 
 # local env files
 .env
