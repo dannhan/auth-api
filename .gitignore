@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+
+# test
+/coverage
+
+# config files
+/config
+
+# local env files
+.env
+
+# private
+HOWTO.md
+auth-api-app-server.pem
